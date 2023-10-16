@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Optimite-React/static/css/main.bd8f4d39.css",
+    "main.js": "/Optimite-React/static/js/main.624d9e43.js",
+    "static/js/787.0c1a86ef.chunk.js": "/Optimite-React/static/js/787.0c1a86ef.chunk.js",
+    "index.html": "/Optimite-React/index.html",
+    "main.bd8f4d39.css.map": "/Optimite-React/static/css/main.bd8f4d39.css.map",
+    "main.624d9e43.js.map": "/Optimite-React/static/js/main.624d9e43.js.map",
+    "787.0c1a86ef.chunk.js.map": "/Optimite-React/static/js/787.0c1a86ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd8f4d39.css",
+    "static/js/main.624d9e43.js"
+  ]
+}
